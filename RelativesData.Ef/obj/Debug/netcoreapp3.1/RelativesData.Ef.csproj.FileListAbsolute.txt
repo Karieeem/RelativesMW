@@ -1,0 +1,16 @@
+D:\Kareem\Pro\RelativesData\RelativesData.Ef\bin\Debug\netcoreapp3.1\RelativesData.Ef.deps.json
+D:\Kareem\Pro\RelativesData\RelativesData.Ef\bin\Debug\netcoreapp3.1\RelativesData.Ef.runtimeconfig.json
+D:\Kareem\Pro\RelativesData\RelativesData.Ef\bin\Debug\netcoreapp3.1\RelativesData.Ef.runtimeconfig.dev.json
+D:\Kareem\Pro\RelativesData\RelativesData.Ef\bin\Debug\netcoreapp3.1\RelativesData.Ef.dll
+D:\Kareem\Pro\RelativesData\RelativesData.Ef\bin\Debug\netcoreapp3.1\RelativesData.Ef.pdb
+D:\Kareem\Pro\RelativesData\RelativesData.Ef\bin\Debug\netcoreapp3.1\RelativesData.Core.dll
+D:\Kareem\Pro\RelativesData\RelativesData.Ef\bin\Debug\netcoreapp3.1\RelativesData.Core.pdb
+D:\Kareem\Pro\RelativesData\RelativesData.Ef\obj\Debug\netcoreapp3.1\RelativesData.Ef.csproj.AssemblyReference.cache
+D:\Kareem\Pro\RelativesData\RelativesData.Ef\obj\Debug\netcoreapp3.1\RelativesData.Ef.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kareem\Pro\RelativesData\RelativesData.Ef\obj\Debug\netcoreapp3.1\RelativesData.Ef.AssemblyInfoInputs.cache
+D:\Kareem\Pro\RelativesData\RelativesData.Ef\obj\Debug\netcoreapp3.1\RelativesData.Ef.AssemblyInfo.cs
+D:\Kareem\Pro\RelativesData\RelativesData.Ef\obj\Debug\netcoreapp3.1\RelativesData.Ef.csproj.CoreCompileInputs.cache
+D:\Kareem\Pro\RelativesData\RelativesData.Ef\obj\Debug\netcoreapp3.1\RelativesData.Ef.csproj.CopyComplete
+D:\Kareem\Pro\RelativesData\RelativesData.Ef\obj\Debug\netcoreapp3.1\RelativesData.Ef.dll
+D:\Kareem\Pro\RelativesData\RelativesData.Ef\obj\Debug\netcoreapp3.1\RelativesData.Ef.pdb
+D:\Kareem\Pro\RelativesData\RelativesData.Ef\obj\Debug\netcoreapp3.1\RelativesData.Ef.genruntimeconfig.cache

@@ -1,0 +1,30 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Migrations\20220329070745_AddUsersTable.cs" />
+    <Compile Remove="Migrations\20220329070745_AddUsersTable.Designer.cs" />
+    <Compile Remove="Migrations\20220329070849_AddUsersTable.cs" />
+    <Compile Remove="Migrations\20220329070849_AddUsersTable.Designer.cs" />
+    <Compile Remove="Migrations\20220329071128_UpdateUsersTable.cs" />
+    <Compile Remove="Migrations\20220329071128_UpdateUsersTable.Designer.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="3.1.1" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1.1" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.1" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.1.1">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\RelativesData.Core\RelativesData.Core.csproj" />
+  </ItemGroup>
+
+</Project>
